@@ -1,9 +1,9 @@
-# instagram-clone-in-django-manascode
+# instagram-clone
 
 ### How to run the project
 
 ```sh
-git clone https://github.com/imanaspaul/instagram-clone-in-django-manascode.git
+git clone https://github.com/kano423/Instagram-Django.git
 cd server
 pipenv shell
 
